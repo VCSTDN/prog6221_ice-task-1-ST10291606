@@ -24,6 +24,8 @@ namespace EggFarm
             Console.WriteLine("You have " + looseEgg + " loose eggs at $0.45 per egg.");
             Console.WriteLine("The total amount due for all the " + amountOfEggs + " egg(s) is: $" + price);
 
+            // 
+
 
         }
     }
