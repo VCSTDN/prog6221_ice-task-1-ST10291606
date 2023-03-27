@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "ICE Task 1",
+      "setup": "run install",
+      "run": "gradle test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    }
+  ]
+}
